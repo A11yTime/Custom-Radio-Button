@@ -7,4 +7,4 @@
 ## Terminologies:
 * Before hiding radio button with .sr-only class make add visual focus indicator for custom radio.
 * Don’t need any tabindex=”-1” to input type=” radio” doing so create inaccessible experience.
-##### Alert - Don't use display:none; to hide actual radio button doing so would create inaccessible user experience.
+##### Alert - Don't use display: none; to hide actual radio button doing so would create inaccessible user experience.
