@@ -1,6 +1,6 @@
 ## Accessibility Consideration of Custom Radio Buton:
 
-* When custom get keyboard focus expose label and group label to screen reader.
+* When custom radio button get keyboard focus expose label and group label to screen reader.
 * Radion buttons have obvious visual focus indicator.
 * States of radio button update accordingly.
 
