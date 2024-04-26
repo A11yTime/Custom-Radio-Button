@@ -1,4 +1,4 @@
-## Accessibility Consideration of Custom Radio Buton:
+## Accessibility Consideration of Custom Radio Buton
 
 * When custom radio button get keyboard focus expose label and group label to screen reader.
 * Radion buttons have obvious visual focus indicator.
